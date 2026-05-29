@@ -1,0 +1,9 @@
+{
+  "parse_ok": true,
+  "errors": [],
+  "symbol_tables": {
+    "identifiers": [[1, "triton", "unknown", ""], [2, "jit", "unknown", ""], [3, "softmax_kernel", "function", ""], [4, "input_ptr", "parameter", ""], [5, "output_ptr", "parameter", ""], [6, "n_cols", "parameter", ""], [7, "BLOCK_SIZE", "parameter", ""], [8, "tl", "unknown", ""], [9, "constexpr", "unknown", ""], [10, "row_idx", "variable", ""], [11, "program_id", "unknown", ""], [12, "col_offsets", "variable", ""], [13, "arange", "unknown", ""], [14, "input_ptrs", "variable", ""], [15, "mask", "variable", ""], [16, "row", "variable", ""], [17, "load", "unknown", ""], [18, "other", "unknown", ""], [19, "float", "unknown", ""], [20, "row_max", "variable", ""], [21, "max", "unknown", ""], [22, "axis", "unknown", ""], [23, "numerator", "variable", ""], [24, "exp", "unknown", ""], [25, "denominator", "variable", ""], [26, "sum", "unknown", ""], [27, "softmax_output", "variable", ""], [28, "full", "unknown", ""], [29, "float32", "unknown", ""], [30, "output_ptrs", "variable", ""], [31, "store", "unknown", ""]],
+    "numbers": [[1, "0", "int"], [2, "0.0", "float"]],
+    "strings": [[1, "inf"]]
+  }
+}
